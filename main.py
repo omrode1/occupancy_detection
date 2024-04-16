@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+import cv2
+=======
 import numpy as np
 import time
 
@@ -70,3 +73,4 @@ while True:
 for video in video_streams:
     video.release()
 cv2.destroyAllWindows()
+>>>>>>> origin/master
